@@ -1,0 +1,15 @@
+Node js - Runtime Environment for javascript
+
+Node -> V8 + C++
+
+Chrome -> V8
+Firefox -> Spider Monkey
+
+Architecture 
+
+Request -> Event Queue(FIFO) -> Event Loop 
+                                     |
+                                     |
+                                    / \
+    Non - Blocking(Direct Response)     Blocking -> Thread Pool (Worker)  -> No. of worker available 
+                                                                             depend on CPU              
