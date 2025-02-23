@@ -1,0 +1,19 @@
+[function toISOString() { [native code] }] GET /public/
+[2025-02-23T17:54:30.495Z] GET /public/
+[2025-02-23T17:54:57.995Z] GET /public/generate-token
+[2025-02-23T17:55:03.384Z] GET /private/dashboard
+[2025-02-23T18:14:04.527Z] GET /public/generate-token
+[2025-02-23T18:47:19.635Z] GET /private/dashboard
+[2025-02-23T18:47:19.636Z] GET /dashboard
+[2025-02-23T18:47:54.676Z] GET /private/dashboard
+[2025-02-23T18:48:01.590Z] GET /public/generate-token
+[2025-02-23T18:48:19.117Z] GET /private/dashboard
+[2025-02-23T18:48:40.209Z] GET /private/dashboard
+[2025-02-23T18:48:47.453Z] GET /public/generate-token
+[2025-02-23T18:49:04.027Z] GET /private/dashboard
+[2025-02-23T18:49:55.434Z] GET /private/dashboard
+[2025-02-23T18:49:56.986Z] GET /private/dashboard
+[2025-02-23T18:49:57.708Z] GET /private/dashboard
+[2025-02-23T18:50:00.983Z] GET /public/generate-token
+[2025-02-23T18:50:08.963Z] GET /private/dashboard
+[2025-02-23T18:50:50.186Z] GET /private/dashboard
